@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaclyn</h1>
+<h1 align="center">Hey 👋 I'm Jaclyn</h1>
 <h3 align="center">Physicist / Data Analyst / Programmer</h3>
 
 - 🔭 I’m currently working on **a mini galaga clone**
