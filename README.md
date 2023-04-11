@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my personal website at [jclyn.info](jclyn.info)
 
-- 📫 How to reach me **jaclynb133@gmail.com**
+- 📫 Reach me at **jaclynb133@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
