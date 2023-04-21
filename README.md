@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SDL, game engine architecture, graphics**
 
-- 👨‍💻 Check out my personal website at [jclyn.info](jclyn.info)
+- 👨‍💻 Check out my personal website at [jclyn.info](https://jclyn.notion.site/Meet-Jaclyn-3376e41006724ae29445f3733c96c4eb)
 
 - 📫 Reach me at **jaclynb133@gmail.com**
 
