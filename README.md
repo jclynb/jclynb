@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋 I'm Jaclyn</h1>
 <h3 align="center">Physicist / Data Analyst / Programmer</h3>
 
-- 🔭 I’m currently working on **a mini galaga clone**
+- 🔭 I’m currently working on **a Selenium web bot**
 
-- 🌱 I’m currently learning **SDL, game engine architecture, graphics**
+- 🌱 I’m currently reading Peter Cameron's Combinatorics
 
 - 👨‍💻 Check out my personal website at [jclyn.info](https://jclyn.notion.site/Meet-Jaclyn-3376e41006724ae29445f3733c96c4eb)
 
