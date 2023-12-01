@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Jaclyn</h1>
 <h3 align="center">Physicist / Data Analyst / Programmer</h3>
 
-- 🔭 I’m currently working on **advent of code!!*
+- 🔭 I’m currently working on **advent of code!!**
 
 - 👨‍💻 Check out my personal website at [jclyn.info](https://jclyn.notion.site/Meet-Jaclyn-3376e41006724ae29445f3733c96c4eb)
 
